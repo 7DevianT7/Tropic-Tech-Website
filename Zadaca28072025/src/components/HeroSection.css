@@ -1,0 +1,32 @@
+.hero-section {
+  background: linear-gradient(135deg, #0a0f2c, #003366);
+  color: #ffffff;
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.hero-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.hero-content h2 {
+  font-size: 1.5rem;
+  color: #00aaff;
+  margin-bottom: 30px;
+}
+
+.learn-more-btn {
+  padding: 10px 20px;
+  background-color: #00aaff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.learn-more-btn:hover {
+  background-color: #0077cc;
+}
